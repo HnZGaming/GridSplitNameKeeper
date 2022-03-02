@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>GridSplitNameKeeper </Name>
+  <Guid>985c10b1-b853-437e-abc0-396c917f0a3b</Guid>
+  <Repository>N1Ran/GridSplitNameKeeper</Repository>
+  <Version>v1.1.6.0</Version>
+</PluginManifest>
